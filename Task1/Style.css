@@ -1,0 +1,15 @@
+input[type=password], input[type=email] {
+    width: 100%;
+    padding: 15px;
+    background: moccasin;
+}
+input[type=submit] {
+    background-color: mediumturquoise;
+    color: black;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+  }
+body{
+    background-color: olive;
+}
